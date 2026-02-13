@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Prazer em te ver por aqui!</h1>
 
 ###
 
-<p align="left">My name is Felipe and I'm a Software Development student from Brazil 🇧🇷<br><br>I'm currently finishing my technical degree in Systems Development at SENAI and planning to pursue a degree in Software Engineering. My goal is to become a Full Stack Developer and build scalable, real-world applications.</p>
+<p align="left">Meu nome é Felipe e sou estudante de Desenvolvimento de Software do Brasil 🇧🇷
+
+Atualmente estou finalizando meu curso técnico em Desenvolvimento de Sistemas no SENAI e planejando cursar uma graduação em Engenharia de Software. Meu objetivo é me tornar um Desenvolvedor Full Stack e construir aplicações escaláveis e voltadas para o mundo real.</p>
 
 ###
 
@@ -10,11 +12,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs and learning fast since 2023<br>📚 I'm currently learning Back-end development, improving my Front-end skills, and exploring Cloud Computing with Amazon Web Services<br>🎯 Goals: Become a Full Stack Developer, work internationally, or join a major tech-driven company in Brazil<br>🎲 Fun fact: I really enjoy building CRUD systems, creating servers, and turning ideas into functional APIs</p>
+<p align="left">✨ Criando bugs e aprendendo rápido desde 2023<br>📚 Atualmente estou aprendendo Back-end, aprimorando minhas habilidades em Front-end e explorando Cloud Computing com Amazon Web Services<br>🎯 Objetivos: Me tornar um Desenvolvedor Full Stack, trabalhar internacionalmente ou entrar em uma grande empresa de tecnologia no Brasil<br>🎲 Curiosidade: Eu realmente gosto de criar sistemas CRUD, desenvolver servidores e transformar ideias em APIs funcionais</p>
 
 ###
 
-<h2 align="left">I code with 🧑🏼‍💻</h2>
+<h2 align="left">Desenvolvo projetos com 🧑🏼‍💻</h2>
 
 ###
 
