@@ -8,7 +8,7 @@ Atualmente estou finalizando meu curso técnico em Desenvolvimento de Sistemas n
 
 ###
 
-<h2 align="left">💻About me</h2>
+<h2 align="left">💻 Sobre mim</h2>
 
 ###
 
