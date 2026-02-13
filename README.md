@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs and learning fast since 2023<br>📚 I'm currently learning Back-end development, improving my Front-end skills, and exploring Cloud Computing with Amazon Web Services<br>🎯 Goals: Become a Full Stack Developer, work internationally, or join a major tech-driven company in Brazil like Itaú Unibanco or Bradesco<br>🎲 Fun fact: I really enjoy building CRUD systems, creating servers, and turning ideas into functional APIs</p>
+<p align="left">✨ Creating bugs and learning fast since 2023<br>📚 I'm currently learning Back-end development, improving my Front-end skills, and exploring Cloud Computing with Amazon Web Services<br>🎯 Goals: Become a Full Stack Developer, work internationally, or join a major tech-driven company in Brazil<br>🎲 Fun fact: I really enjoy building CRUD systems, creating servers, and turning ideas into functional APIs</p>
 
 ###
 
