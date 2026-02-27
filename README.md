@@ -44,4 +44,6 @@ Atualmente estou finalizando meu curso técnico em Desenvolvimento de Sistemas n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/felipesalvador-dev/felipesalvador-dev/output/snake.svg" alt="Snake animation" />
+
 ###
