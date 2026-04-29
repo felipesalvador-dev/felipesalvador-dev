@@ -12,7 +12,7 @@ Atualmente estou finalizando meu curso técnico em Desenvolvimento de Sistemas n
 
 ###
 
-<p align="left">✨ Criando bugs e aprendendo rápido desde 2023<br>📚 Atualmente estou aprendendo Back-end, aprimorando minhas habilidades em Front-end e explorando Cloud Computing com Amazon Web Services<br>🎯 Objetivos: Me tornar um Desenvolvedor Full Stack, trabalhar internacionalmente ou entrar em uma grande empresa de tecnologia no Brasil<br>🎲 Curiosidade: Eu realmente gosto de criar sistemas CRUD, desenvolver servidores e transformar ideias em APIs funcionais</p>
+<p align="left">✨ Criando bugs e aprendendo rápido desde 2023<br>📚 Atualmente estou aprendendo Back-end, aprimorando minhas habilidades em Front-end e explorando a criação de API'S e CRUD<br>🎯 Objetivos: Me tornar um Desenvolvedor Full Stack, trabalhar internacionalmente ou entrar em uma grande empresa de tecnologia no Brasil<br>🎲 Curiosidade: Eu realmente gosto de criar sistemas CRUD, desenvolver servidores e transformar ideias em APIs funcionais</p>
 
 ###
 
