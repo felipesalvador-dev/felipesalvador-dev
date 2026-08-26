@@ -1,83 +1,55 @@
-# 👋 Olá, eu sou Felipe Salvador!
+# 👋 Olá, eu sou Felipe Salvador
 
-### 💻 Back-End Developer em formação
+### 💻 Desenvolvedor Back-End em formação
 
 🎓 Técnico em Desenvolvimento de Sistemas — SENAI
-🚀 Apaixonado por programação, tecnologia e desenvolvimento de software
+💻 Foco atual: Desenvolvimento Back-End, APIs REST e Banco de Dados
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Desenvolvimento de Sistemas**, atualmente direcionando meus estudos para o desenvolvimento **Back-End**.
+
+Tenho experiência acadêmica e prática no desenvolvimento de **APIs REST, sistemas CRUD, autenticação, integração com bancos de dados e aplicações web**.
+
+Durante minha formação, tive contato com diferentes linguagens de programação e tecnologias, utilizando projetos acadêmicos e pessoais como forma de desenvolver minha experiência prática.
+
+Atualmente, busco aprimorar meus conhecimentos em **desenvolvimento de software, arquitetura de aplicações, bancos de dados e desenvolvimento de APIs**.
+
+Meu objetivo profissional é me tornar um **Full Stack Developer**, ampliando gradualmente meus conhecimentos em diferentes áreas do desenvolvimento de software.
+
+---
+
+## 🛠️ Linguagens de Programação
 
 <p align="center">
-  <a href="https://github.com/felipesalvador-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,dart,html,css" />
 </p>
 
 ---
 
-## 💜 Sobre mim
+## ⚙️ Tecnologias e Ferramentas
 
-Sou estudante de **Desenvolvimento de Sistemas**, atualmente com foco em **desenvolvimento Back-End**.
-
-Gosto de transformar ideias em projetos reais, principalmente através da criação de **APIs, sistemas CRUD, bancos de dados e aplicações web**.
-
-Durante minha formação, tive contato com diferentes linguagens e tecnologias, desenvolvendo projetos acadêmicos e pessoais para colocar em prática meus conhecimentos.
-
-Atualmente, estou buscando evoluir cada vez mais como desenvolvedor, aprofundando meus conhecimentos em **Back-End, APIs, bancos de dados e desenvolvimento de software**.
-
-Meu objetivo é continuar aprendendo e, futuramente, atuar como **Full Stack Developer**.
-
----
-
-## 🏆 Projetos em destaque
-
-### 🎮 TopPlayer
-
-Sistema Back-End para gerenciamento de jogadores, jogos, partidas e rankings.
-
-**Tecnologias:**
-
-`Node.js` `Express` `MySQL` `Swagger` `Jest` `Supertest`
-
----
-
-### 📚 Bibliotec
-
-Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliações, favoritos e estoque.
-
-**Tecnologias:**
-
-`Node.js` `Express` `MySQL`
-
----
-
-# 💻 Linguagens
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react" />
-</p>
-
----
-
-# 🛠️ Tecnologias & Ferramentas
-
-### 🔙 Back-End
+### Back-End
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 📱 Mobile
+### Desenvolvimento Mobile
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🧪 Testes & APIs
+### Testes e APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jest,postman" />
@@ -87,7 +59,7 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
   <strong>Swagger • Supertest • REST API • CRUD • JWT</strong>
 </p>
 
-### 🔧Ferramentas
+### Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -95,102 +67,102 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
 
 ---
 
-# 🌱 Atualmente aprendendo
+# 🚀 Projetos em Destaque
 
-💜 Desenvolvimento Back-End
-💙 APIs REST e integração de sistemas
-💚 Banco de Dados e SQL
-💛 Desenvolvimento Full Stack
-🩵 Desenvolvimento Front-End
----
+## 🎮 TopPlayer
 
-## 📊 GitHub Stats
+Projeto Back-End desenvolvido para gerenciamento de **jogadores, jogos, partidas e rankings**.
 
-<p align="center">
-  <img
-    width="510"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=false"
-    alt="Top Languages"
-  />
-</p>
+**Principais tecnologias:**
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
+`Node.js` `Express` `MySQL` `Swagger` `Jest` `Supertest`
 
 ---
 
-## 📈 Linguagens mais utilizadas
+## 📚 Bibliotec
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
+Sistema desenvolvido para gerenciamento de uma biblioteca, contemplando funcionalidades relacionadas a **usuários, livros, reservas, avaliações, favoritos e estoque**.
 
----
+**Principais tecnologias:**
 
-# 💡 O que eu gosto de desenvolver
-
-<p align="center">
-
-🔹 APIs REST
-🔹 Sistemas CRUD
-🔹 Back-End
-🔹 Bancos de Dados
-🔹 Sistemas Web
-🔹 Autenticação
-🔹 Integração entre sistemas
-🔹 Projetos que resolvem problemas reais
-
-</p>
+`Node.js` `Express` `MySQL`
 
 ---
 
-# 🎯 Meus objetivos
+# 📚 Atualmente Estudando
+
+* Desenvolvimento Back-End
+* Node.js e Express
+* APIs REST
+* Banco de Dados e SQL
+* Desenvolvimento Full Stack
+* Desenvolvimento Front-End
+* Cloud Computing e AWS
+
+> Atualmente possuo conhecimentos iniciais em Cloud Computing e AWS e tenho como objetivo aprofundar meus conhecimentos nessas tecnologias ao longo da minha formação.
+
+---
+
+# 🎯 Objetivos Profissionais
 
 ```text
-📚 Continuar evoluindo em programação
-              ↓
-🔙 Aprofundar meus conhecimentos em Back-End
-              ↓
-🌐 Evoluir no desenvolvimento Full Stack
-              ↓
-☁️ Aprender mais sobre Cloud & AWS
-              ↓
-🚀 Trabalhar profissionalmente com desenvolvimento de software
+Desenvolvimento Back-End
+          ↓
+Aprofundamento em APIs e Banco de Dados
+          ↓
+Desenvolvimento Full Stack
+          ↓
+Arquitetura e Engenharia de Software
+          ↓
+Experiência profissional na área de Tecnologia
 ```
 
 ---
 
-# 📚 Formação
-
-🎓 **Técnico em Desenvolvimento de Sistemas**
-
-🏫 **SENAI**
-
-Atualmente aprofundando meus conhecimentos em desenvolvimento de software, programação, bancos de dados e desenvolvimento de APIs.
-
----
-
-# 📫 Vamos nos conectar?
+# 📊 GitHub
 
 <p align="center">
-
-<a href="https://github.com/felipesalvador-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <img src="./profile/stats.svg" width="450">
+  <img src="./profile/top-langs.svg" width="450">
 </p>
 
 ---
 
-<p align="center">
-  💜 Obrigado por visitar meu perfil! 💙
-</p>
+# 📈 Linguagens Mais Utilizadas
 
 <p align="center">
-  <strong>Aprendendo • Criando • Evoluindo 🚀</strong>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
+
+---
+
+# 🎓 Formação
+
+**Técnico em Desenvolvimento de Sistemas**
+**SENAI**
+
+Formação voltada ao desenvolvimento de software, programação, banco de dados, desenvolvimento de aplicações e fundamentos de tecnologia.
+
+---
+
+# 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/felipesalvador-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Desenvolvimento contínuo, aprendizado constante e evolução profissional.</strong>
+</p>
+
