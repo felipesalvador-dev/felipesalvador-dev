@@ -9,9 +9,6 @@
   <a href="https://github.com/felipesalvador-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/felipe-salvador-oliveira-4914213b2/">
-    <img src="https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </p>
 
 ---
