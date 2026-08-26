@@ -52,7 +52,7 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
 # 💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
 ### 🔙 Back-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 ### 🗄️ Banco de Dados
@@ -87,10 +87,10 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
   <strong>Swagger • Supertest • REST API • CRUD • JWT</strong>
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Mobile e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode" />
 </p>
 
 ---
@@ -102,21 +102,16 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
 💚 Banco de Dados e SQL
 💛 Desenvolvimento Full Stack
 🩵 Desenvolvimento Front-End
-☁️ Cloud Computing e AWS — conhecimento inicial
-
-> Atualmente estou começando a explorar **Cloud Computing e AWS** e quero aprofundar meus conhecimentos nessa área no futuro.
-
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170"
        src="https://github-readme-stats.vercel.app/api?username=felipesalvador-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
