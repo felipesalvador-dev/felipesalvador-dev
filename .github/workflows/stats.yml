@@ -1,0 +1,34 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          username: felipesalvador-dev
+          stats: stats
+          output: profile/stats.svg
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          username: felipesalvador-dev
+          stats: top-langs
+          output: profile/top-langs.svg
+
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update GitHub stats"
+          add: "profile/*.svg"
