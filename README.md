@@ -8,8 +8,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRia3oxYzR2ZGplZ2J1bHd1dXg2a3I0eGFydW1rM25sZW50eTltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 </td>
 </tr>
-
-<table>
+</table>
 
 - - -
 
@@ -71,6 +70,10 @@
 
 ### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="50"/>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -80,6 +83,13 @@
 
 </td>
 <td width="50%" valign="top">
+
+### Cloud (Basic Knowledge)
+
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+
+</td>
+</tr>
 
 <tr>
 <td colspan="2" valign="top">
@@ -107,8 +117,15 @@
 <td width="50%">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=felipesalvador-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
-</tr>
 </td>
+</tr>
+
+<tr>
+<td colspan="2">
+
 <img src="https://streak-stats.demolab.com/?user=felipesalvador-dev&theme=tokyonight&hide_border=false"/>
+
+</td>
+</tr>
 
 </table>
