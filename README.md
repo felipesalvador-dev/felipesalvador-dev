@@ -87,10 +87,10 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
   <strong>Swagger • Supertest • REST API • CRUD • JWT</strong>
 </p>
 
-### 🔧 Mobile e Ferramentas
+### 🔧Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -107,8 +107,12 @@ Sistema de gerenciamento de biblioteca com usuários, livros, reservas, avaliaç
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=felipesalvador-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    width="510"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=false"
+    alt="Top Languages"
+  />
+</p>
 
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalvador-dev&layout=donut&theme=tokyonight&hide_border=true" />
