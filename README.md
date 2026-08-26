@@ -19,7 +19,7 @@
 <br>
 - 💬 Ask me about AI, Web,ML.
 <br><br>
-- 📫 How to reach me: **deepakgupta2312005@gmail.com**
+- 📫 How to reach me: ****
 <br>
 <br>
 - ⚡ Fun fact **Doesn't Exist!!**
@@ -53,7 +53,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react, vercel" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" height="50"/>
 
 
 </td>
