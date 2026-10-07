@@ -19,16 +19,16 @@
 - - -
 
 # 👨🏻‍💻 About Me:
-- 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
+- 🎓 Systems Development Technician (SENAI)
 
-- 💻 Desenvolvedor Back-End em formação
-- 🚀 Atualmente focado em Node.js, APIs REST e bancos de dados
-- 🧠 Gosto de aprender novas tecnologias colocando o conhecimento em prática
-- 🛠️ Tenho interesse em criar sistemas, APIs e soluções para problemas reais
-- 🌐 Buscando evoluir cada vez mais como desenvolvedor Full Stack
-- 📚 Sempre estudando e desenvolvendo projetos para aprimorar minhas habilidades
-- 🎯 Meu objetivo é construir uma carreira na área de tecnologia e trabalhar em projetos de grande impacto
-- 🤝 Aberto a colaborar em projetos e aprender com outros desenvolvedores
+- 💻 Aspiring backend developer
+- 🚀 Currently focused on Node.js, REST APIs, and databases.
+- 🧠 I enjoy learning new technologies by putting knowledge into practice.
+- 🛠️ I am interested in creating systems, APIs, and solutions for real-world problems.
+- 🌐 Striving to constantly grow as a Full Stack developer.
+- 📚 Always studying and developing projects to hone my skills.
+- 🎯 My goal is to build a career in technology and work on high-impact projects.
+- 🤝 Open to collaborating on projects and learning from other developers.
 
 <br>
 
